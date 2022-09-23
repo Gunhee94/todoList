@@ -1,0 +1,16 @@
+h1 {
+    color:#b37ddb
+}
+
+span.blue {
+    color:blue;
+    cursor : pointer
+}
+
+span.gray {
+    color:gray
+}
+
+table {
+    border-collapse: collapse
+}

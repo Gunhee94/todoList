@@ -1,0 +1,16 @@
+tr {
+    border-bottom: 1px solid lightGray
+}
+
+.firstTd {
+    border-bottom: 1px solid white
+}
+
+.gray {
+    color: gray
+}
+
+.red {
+    color: red
+}
+

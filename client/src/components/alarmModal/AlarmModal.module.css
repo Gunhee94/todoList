@@ -1,0 +1,19 @@
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400;
+    border: 1px solid #000;
+    box-Shadow: 24;
+    background-color: white;
+}
+
+.div {
+    padding: 50px;
+    width: 100%
+}
+
+.select {
+    margin-right:5px;
+}
